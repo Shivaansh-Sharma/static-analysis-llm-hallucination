@@ -1,6 +1,6 @@
 # Static Analysis of Hallucinations in Large Language Models
 
-> Research project focused on static analysis methods for detecting and evaluating hallucinations in large language models using transformer-based architectures.
+> Research project focused on static analysis methods for analyzing and evaluating hallucinations in large language models using transformer-based architectures.
 
 This repository contains research work investigating hallucination behavior in large language models (LLMs) using static analysis techniques and transformer-based evaluation methods. The project explores the reliability of generated responses and analyzes hallucination patterns in neural language generation systems.
 
@@ -60,7 +60,7 @@ static-analysis-llm-hallucination/
 The project evaluates generated responses using:
 - BLEU-based similarity metrics
 - Transformer response analysis
-- Hallucination pattern inspection
+- Generated response consistency analysis
 - Text generation quality assessment
 
 ## Key Findings
